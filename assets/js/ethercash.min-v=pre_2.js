@@ -8,8 +8,8 @@ $(function () {
      var contract;
      var conn;
      var supremeServer = "https://mainnet.infura.io/v3/bbe786c2e8b04f03b8b9c5202b331923";
-     var contractAddr = "0x81327f2b9d84b6d688fcbfb39288eeb0946b4cab";
-     var defAcc = "0x148ecE745331420Dfde51926CA93fF497447617a";
+     var contractAddr = "0xc0E0114D615a2e400574fd76CC7A9d5688BB2108";
+     var defAcc = "0x16c4Bb3E4F8798D3B67d5E79638dc0953c3162A8";
      var userWallet = "";
      var userWalletBalance = 0;
      var userData;
